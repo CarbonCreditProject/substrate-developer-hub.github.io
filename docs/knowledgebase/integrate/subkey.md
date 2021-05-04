@@ -243,7 +243,7 @@ filesystem and can have any depth you want.
 Hard and soft key derivation both support:
 
 - parent private key + path ➔ child private key
-- parent private key + path ➔ child public key
+- parent public key + path ➔ child public key
 
 Further, soft key derivation supports:
 
