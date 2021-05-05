@@ -8,7 +8,7 @@ blockchain development framework and the [FRAME](../../knowledgebase/runtime/fra
 
 
 This tutorial should take you about **1 hour** to complete (can you believe that Substrate
-enables you to do this in such a tiny amount fo time?!). We will be using the
+enables you to do this in such a tiny amount of time?!). We will be using the
 [Rust programming language](https://www.rust-lang.org/) and [ReactJS](https://reactjs.org/), but you
 do not need to know these to be able to complete this guide. We will provide you with working code
 snippets and explain what all the code does at a high level.
